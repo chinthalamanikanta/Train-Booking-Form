@@ -18,7 +18,7 @@ stages:
   displayName: "Build Stage"
   jobs:
   - job: Buildjob
-    displayName: :"Bulid Job"
+    displayName: "Bulid Job"
 
     steps:
     - task: NuGetToolInstaller@1
